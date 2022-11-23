@@ -1,0 +1,17 @@
+{
+    "name": "not-todae/ipt10-reg-login",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "David Aaron Echon",
+            "email": "echon.davidaaron@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
